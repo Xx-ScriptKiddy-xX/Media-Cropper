@@ -1,5 +1,5 @@
 # Media Cropper App
-<img width="600" height="600" alt="Cropper" src="https://github.com/user-attachments/assets/8194eedf-09ad-4655-97d7-f4a801b8182b" />
+<img width="600" height="600" alt="Media Cropper Icon" src="https://github.com/user-attachments/assets/8194eedf-09ad-4655-97d7-f4a801b8182b" />
 
 **Image & Video Cropper App** is a desktop application for previewing, cropping, and exporting **images and videos** with precise control. Built with **Python, PyQt5, OpenCV, and FFmpeg**, it provides real-time previews, interactive crop tools, and high-quality exports.
 
@@ -38,7 +38,7 @@
 4. Select an aspect ratio.  
 5. Adjust the crop box by dragging or using offset controls.  
 6. Click **Export Crop** to save the result.
-<img width="388" height="388" alt="Screenshot 2026-02-21 225531" src="https://github.com/user-attachments/assets/98984c73-bfe7-498d-8d81-68f1c6536032" />
+<img width="388" height="388" alt="Tutorial" src="https://github.com/user-attachments/assets/98984c73-bfe7-498d-8d81-68f1c6536032" />
 
 
 

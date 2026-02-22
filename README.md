@@ -38,8 +38,7 @@
 4. Select an aspect ratio.  
 5. Adjust the crop box by dragging or using offset controls.  
 6. Click **Export Crop** to save the result.
-
-<img width="388" height="388" alt="Screenshot 2026-02-21 225531" src="https://github.com/user-attachments/assets/73b95cd9-f845-4e88-9fbd-5055ca2f3cc9" />
+<img width="388" height="388" alt="Screenshot 2026-02-21 225531" src="https://github.com/user-attachments/assets/98984c73-bfe7-498d-8d81-68f1c6536032" />
 
 
 
